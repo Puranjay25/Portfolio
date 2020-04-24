@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '_c^@ye=&x7^!yyjn%v@g$+*kjl4&1ca7#edgbw+3zj1%@t3+6l'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['puranjay-makhija.herokuapp.com','127.0.0.1']
 
@@ -127,4 +127,4 @@ EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 EMAIL_PORT = 587
 EMAIL_HOST_USER = "rjrjjoshirahul@gmail.com"
-EMAIL_HOST_PASSWORD = "fakeaccountonly"
+EMAIL_HOST_PASSWORD = "f@k3@cc0unt0nly"
